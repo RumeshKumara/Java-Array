@@ -17,7 +17,7 @@ public class Main {
         b.print(); // Output: B
 
         A a1 = new B();
-        a1.print(); // Output: A
+        a1.print(); // Output: B
 
 
 
