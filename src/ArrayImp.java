@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class ArrayImp {
@@ -28,7 +29,6 @@ public class ArrayImp {
         }
         System.out.println("Sum of the array elements: " + sum);
 
-
-
     }
 }
+
