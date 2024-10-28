@@ -17,5 +17,9 @@ public class ArrList {
         list.set(2, 10);
 
         System.out.println("List after changing element at index 2: " + list);
+
+        for (Integer i : list) {
+            System.out.println(i);
+        }
     }
 }
