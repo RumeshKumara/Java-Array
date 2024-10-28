@@ -13,5 +13,9 @@ public class ArrList {
         list.remove(2);
 
         System.out.println("List after removing element at index 2: " + list);
+
+        list.set(2, 10);
+
+        System.out.println("List after changing element at index 2: " + list);
     }
 }
